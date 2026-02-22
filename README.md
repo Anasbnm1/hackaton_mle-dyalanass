@@ -75,4 +75,4 @@ Si vous venez de cloner ce dépôt, vous êtes prêts à contribuer !
 - Modifiez l'interface dans le dossier `leafy-insights/src`
 - Améliorez l'IA dans le dossier `backend`
 
-*PlantDoc - Conçu pour protéger la nature par la technologie.*
+*PlantDoc - Conçu pour protéger la nature par la technologie.* chuhaja

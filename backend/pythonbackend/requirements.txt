@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+opencv-python-headless
+numpy
+Pillow
+grad-cam
+google-generativeai
